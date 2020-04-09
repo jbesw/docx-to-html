@@ -1,6 +1,6 @@
 # DOCX-to-HTML converter
 
-This is a simple script that uses the Mammoth and Cherio libraries to convert DOCX to HTML for WordPress. Simply copy the output HTML into the "Text" tab of posts and pages in WordPress. 
+This is a simple script that uses the Mammoth and Cheerio libraries to convert DOCX to HTML for WordPress. Simply copy the output HTML into the "Text" tab of posts and pages in WordPress. 
 
 The output file is saved in the same directory as the DOCX. Currently, images are ignored but I might add more functionality in the future.
 
